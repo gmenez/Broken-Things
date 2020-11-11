@@ -6,4 +6,8 @@ certaines sont "cassées" ou sur le point de casser.
 
 ![](eolien.jpg)
 
-L'IoT peut sans aucun doute aider !
+L'IoT peut sans aucun doute aider ! ... 
+à moins qu'elles ne tombent toutes en pannes en même temps ? ou qu'il n'y ait plus de vent ?
+
+La topologie du réseau n'est pas forcément linéaire (comme sur la photo) ... on pourrait aussi
+avoir une grid.
