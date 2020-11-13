@@ -11,3 +11,6 @@ L'IoT peut sans aucun doute aider ! ...
 
 La topologie du réseau n'est pas forcément linéaire (comme sur la photo) ... on pourrait aussi
 avoir une grid.
+
+Peut être que j'en demande trop ? mais ca pourrait être intéressant !!
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/mesh.html#
